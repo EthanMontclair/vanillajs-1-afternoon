@@ -1,1 +1,1 @@
-const 
+const something = document.getElementById('idInput')
